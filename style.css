@@ -1,0 +1,17 @@
+body {
+    background-color: #414141;
+    color: aliceblue;
+}
+#images li {
+    display:inline;
+} 
+.container {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+#images img {
+    width: 400px;
+    height: 500px;
+}
